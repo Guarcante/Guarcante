@@ -1,5 +1,6 @@
 - 👋 Olá, eu sou o Gustavo
 - 🌱 Estou estudando CSS, Java e HTML5
+- 🖥️ Aprendendo Pyhton 3
 
 <div>
   <a href="https://github.com/guarcante">
