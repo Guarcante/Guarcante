@@ -12,7 +12,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Rafa-yoda" height="150" width="150" src="https://im2.ezgif.com/tmp/ezgif-2-a97f17715c8d.gif">
+  <img align="right" alt="Rafa-yoda" height="150" width="150" src="https://cdn.discordapp.com/attachments/734074418057314494/889805015760404500/ezgif-7-ad84c2bd45c8.gif">
 </div>
  
    ##
